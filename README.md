@@ -1,4 +1,5 @@
 # 🧠 Repositório Central de Projetos de Machine Learning
+Hub central com projetos variados de Machine Learning para aprendizado e demonstração.
 
 ## 📜 Visão Geral
 
